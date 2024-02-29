@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Fredoka", sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(204, 15, 204);
+   
+}
+form{
+    width: 25%;
+    display: block;
+   
+    border: 2px solid black;
+    box-shadow: 20px 20px 8px black;
+    border-radius:  10px;
+ 
+    padding-left: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(231, 190, 204);
+    
+}
+h1{
+    color: purple;
+}
